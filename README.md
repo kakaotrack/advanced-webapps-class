@@ -2,7 +2,7 @@
 
 ## 수업문서
 
-* https://github.com/niceaji/javascript-study
+* https://begin.js.org
 
 ## 수업일정
 
