@@ -2,7 +2,7 @@
 
 ## 수업문서
 
-* https://begin.js.org
+* http://begin.js.org
 
 ## 수업일정
 
